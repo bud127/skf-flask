@@ -4,7 +4,7 @@
   "license": "AGPL-3.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --host=0.0.0.0 --disable-host-check=true --env=prod",
+    "start": "ng serve --host=192.168.43.120  --env=prod",
     "build": "ng build",
     "test": "ng test --code-coverage --reporters=coverage-istanbul",
     "lint": "ng lint",
