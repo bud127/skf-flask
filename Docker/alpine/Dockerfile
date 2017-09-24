@@ -20,7 +20,7 @@ git
 RUN git clone https://github.com/blabla1337/skf-flask.git
 # Start Angular app
 WORKDIR /skf-flask/Angular
-RUN npm install --no-optional @angular/cli
+RUN npm install -g angular-cli
 RUN npm install
 EXPOSE 443
 
