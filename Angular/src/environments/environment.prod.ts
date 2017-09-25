@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  API_ENDPOINT: 'https://0.0.0.0/api'
+  API_ENDPOINT: 'https://10.10.212.9/api'
 };
